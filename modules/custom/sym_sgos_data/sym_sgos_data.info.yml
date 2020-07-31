@@ -1,0 +1,11 @@
+name: Symantec SGOS User Data Generator
+type: module
+description: Symantec SGOS User Data Generator.
+package: 'Symantec BTO'
+core: 8.x
+dependencies:
+  - drupal:node
+libraries:
+  - sym_sgos_data/code-styling
+
+

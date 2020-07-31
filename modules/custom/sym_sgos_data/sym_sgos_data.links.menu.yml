@@ -1,0 +1,6 @@
+sym_sgos_data.sym_sgos_data:
+  title: 'SYM SGOS DATA GENERATOR'
+  menu_name: main
+  route_name: sym_sgos_data.settings
+  expanded: TRUE
+  weight: 100

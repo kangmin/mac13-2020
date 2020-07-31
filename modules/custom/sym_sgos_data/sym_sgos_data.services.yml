@@ -1,0 +1,3 @@
+services:
+  sym_sgos_data.get_bscrypt_salt:
+    class: Drupal\sym_sgos_data\BcryptSaltGenerator

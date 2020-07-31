@@ -1,0 +1,7 @@
+sym_sgos_data.settings:
+  path: '/sym_sgos_data'
+  defaults:
+    _form: '\Drupal\sym_sgos_data\Form\SymSgosData'
+    _title: 'Symantec SGOS User Data Generator'
+  requirements:
+    _permission: 'access content'
